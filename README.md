@@ -11,6 +11,13 @@ Explanation:
 
 --> Make the circuit diagram shown in the diagram attached file
 
+--> To program WeMOS D1 R2 using arduino IDE and its programming language we have to add add-on for the arduino IDE 
+	--> Start Arduino and open Preferences window.
+	--> Enter https://arduino.esp8266.com/stable/package_esp8266com_index.json into Additional Board Manager URLs field.
+	--> Open Boards Manager from Tools > Board menu and find esp8266 platform.
+	--> Select the version you need from a drop-down box.
+	--> Click install button.
+
 --> Connect the WeMOS to the internet i.e using Hotspot of your mobile 
 
 --> Upload the Code provided in the arduino attached file.
